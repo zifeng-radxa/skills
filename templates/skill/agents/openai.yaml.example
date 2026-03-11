@@ -1,0 +1,4 @@
+version: 1
+display_name: Your Skill Name
+short_description: One-line summary for UI display.
+default_prompt: Describe the default task this skill should help with.

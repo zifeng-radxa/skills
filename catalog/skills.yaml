@@ -1,0 +1,12 @@
+version: 1
+
+repository:
+  name: radxa-skills
+  description: Framework for Radxa SBC skills
+
+structure:
+  common_root: skills/common
+  model_root: skills/models
+  model_pattern: skills/models/<board>/<skill-id>
+
+skills: []
